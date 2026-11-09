@@ -6,7 +6,7 @@
 
 ## 体验互动短片
 
-[▶ 立即体验](https://editortest.qni.com/showcase/22453)
+[▶ 立即体验](https://editortest.qni.com/showcase/10)
 
 ## 能做什么
 
