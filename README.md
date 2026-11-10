@@ -6,7 +6,7 @@
 
 ## 体验互动短剧
 
-[▶ 立即体验](https://editortest.qni.com/showcase/10)
+[▶ 立即体验](https://editor.qni.com/showcase/10)
 
 ## 能做什么
 
